@@ -1,0 +1,27 @@
+[{
+    "id": "112156819869877763732",
+    "displayName": "Vania Zúñiga",
+    "name": {
+        "familyName": "Zúñiga",
+        "givenName": "Vania"
+    },
+    "emails": [{
+        "value": "vania.paola.zuniga@gmail.com",
+        "verified": true
+    }],
+    "photos": [{
+        "value": "https://lh3.googleusercontent.com/a/AATXAJwBHsbt-gXiwu9ukJEmto4aD9qZcn2TAOvHZ4Pl=s96-c"
+    }],
+    "provider": "google",
+    "_raw": "{\n  \"sub\": \"112156819869877763732\",\n  \"name\": \"Vania Zúñiga\",\n  \"given_name\": \"Vania\",\n  \"family_name\": \"Zúñiga\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AATXAJwBHsbt-gXiwu9ukJEmto4aD9qZcn2TAOvHZ4Pl\\u003ds96-c\",\n  \"email\": \"vania.paola.zuniga@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en\"\n}",
+    "_json": {
+        "sub": "112156819869877763732",
+        "name": "Vania Zúñiga",
+        "given_name": "Vania",
+        "family_name": "Zúñiga",
+        "picture": "https://lh3.googleusercontent.com/a/AATXAJwBHsbt-gXiwu9ukJEmto4aD9qZcn2TAOvHZ4Pl=s96-c",
+        "email": "vania.paola.zuniga@gmail.com",
+        "email_verified": true,
+        "locale": "en"
+    }
+}]
